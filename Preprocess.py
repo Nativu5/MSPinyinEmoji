@@ -1,3 +1,5 @@
+# 此脚本用于将搜狗输入法的 UDP 词库 TXT 文件转换为 JSON 文件
+
 import json
 import os
 import argparse
