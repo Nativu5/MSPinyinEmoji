@@ -15,5 +15,11 @@
 
 ## 参考资料
 
+Emoji 中文映射：
+
+- <https://github.com/yuhangch/zhmoji/>
+
+词库转换：
+
 - <https://github.com/studyzy/imewlconverter>
 - <https://github.com/youmuyou/mschxudp>
