@@ -6,8 +6,8 @@
 
 1. 下载 Release 中的用户自定义短语文件（`.dat`）：
 
-- 全拼：[Emojis.Quanpin.dat]()
-- 小鹤双拼：[Emojis.Xiaohe.dat]()
+- 全拼：[Emojis.Quanpin.dat](https://github.com/Nativu5/MSPinyinEmoji/releases/download/v1.0.0/Emojis.Quanpin.dat)
+- 小鹤双拼：[Emojis.Xiaohe.dat](https://github.com/Nativu5/MSPinyinEmoji/releases/download/v1.0.0/Emojis.Xiaohe.dat)
 
 2. 在 Windows 任务栏中找到微软拼音输入法图标，右键点击“用户自定义短语”。
 3. 点击“导入”按钮，选择下载的文件导入。
